@@ -1,16 +1,16 @@
 
 <b>LG WEBOS project</b>
 
-A project using Web OS LUNA AI voice service
+A project using <b>Web OS LUNA AI voice service </b>
 
-solution of project is smart bed system. we say some commands and arduino react.
+solution of project is <b>smart bed system</b>. we say some commands and arduino react.
 
 -----this is usage or scenario----
 
-1. you execute webOS and turn on smart bed application
+1. Execute webOS and turn on <br>Smart_Bed</br> .
 
-2.click start button . then LUNA AI service get ready to receive your voice.
+2. Click <br>start</br> button, then LUNA AI service will ready to receive your voice.
 
-3.say some commands I made. for example, " I want to read" then your bed will roll up.
+3. Say some commands we made. For example, <br>say " I want to read". Your bed will roll up.</br>
 
-for more detail, see presentation file
+for more details, see our <br>PPT file</br>.
