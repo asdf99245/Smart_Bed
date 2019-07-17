@@ -11,7 +11,8 @@ solution of project is <b>smart bed system</b>. we say some commands and arduino
 
 2. Click <b>start</b> button, then LUNA AI service will ready to receive your voice.
 
-3. Say some commands we made. For example, <b>say " I want to read". Your bed will roll up.</b>
+3. Say some commands we made. For example, <b>say " I want to read"</b>. Your bed will <b>fold up.</b>
 
+___________________________________
 
-for more details, see our <b>PPT file</b>.
+For more details, see our <b>PPT file</b>.
