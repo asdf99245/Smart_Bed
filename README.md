@@ -7,10 +7,11 @@ solution of project is <b>smart bed system</b>. we say some commands and arduino
 
 -----this is usage or scenario----
 
-1. Execute webOS and turn on <br>Smart_Bed</br> .
+1. Execute webOS and turn on <b>Smart_Bed</b> .
 
-2. Click <br>start</br> button, then LUNA AI service will ready to receive your voice.
+2. Click <b>start</b> button, then LUNA AI service will ready to receive your voice.
 
-3. Say some commands we made. For example, <br>say " I want to read". Your bed will roll up.</br>
+3. Say some commands we made. For example, <b>say " I want to read". Your bed will roll up.</b>
 
-for more details, see our <br>PPT file</br>.
+
+for more details, see our <b>PPT file</b>.
