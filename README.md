@@ -1,5 +1,5 @@
 
-LG WEBOS project
+<b>LG WEBOS project</b>
 
 A project using Web OS LUNA AI voice service
 
