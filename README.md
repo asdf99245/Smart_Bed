@@ -15,4 +15,4 @@ solution of project is <b>smart bed system</b>. we say some commands and arduino
 
 ___________________________________
 
-For more details, see our <b>PPT file</b>.
+
