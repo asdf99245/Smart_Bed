@@ -25,7 +25,7 @@ In short,
 
 3. Say some commands we made. For example, <b>say " I want to read"</b>. Your bed will <b>fold up.</b>
 
-<img width="575" alt="Scenario" src="https://user-images.githubusercontent.com/39851220/167302302-0ebf9be5-485b-4ab5-9599-2a57543e54b4.png">
+<img width="834" alt="Scenario" src="https://user-images.githubusercontent.com/39851220/167302302-0ebf9be5-485b-4ab5-9599-2a57543e54b4.png">
 ___________________________________
 
 
